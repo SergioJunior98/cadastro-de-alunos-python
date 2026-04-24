@@ -178,7 +178,7 @@ def inicio_programa():
     escolha = 0
 
     print("="*40)
-    print(f"{' Tabela de Registro de Alunos ':=^40}")
+    print(f"{' Tabela de Cadastro de Alunos ':=^40}")
     print("="*40)
     print()
 
