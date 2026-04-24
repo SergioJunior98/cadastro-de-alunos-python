@@ -1,0 +1,14 @@
+# Banco de dados
+*.db
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+*.iml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
